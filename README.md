@@ -1,1 +1,1 @@
-<img width="3840" height="2160" alt="git_ctpp" src="https://github.com/user-attachments/assets/5ab2c316-402e-4284-9846-5eb5e59a5755" />
+<img width="5120" height="3200" alt="git_ctpp" src="https://github.com/user-attachments/assets/fb19f096-ba57-447a-85d4-6fbbee14b4d6" />
